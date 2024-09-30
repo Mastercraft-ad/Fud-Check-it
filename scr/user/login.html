@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Profile</title>
+    <link rel="stylesheet" href="/js-css/css/auth.css">
+</head>
+<body>
+
+    <div id="header-hero-container"></div>
+
+    <div class="container">
+        <div class="header">
+            
+            <h1>Welcome back!</h1>
+        </div>
+        <div class="profile-picture">
+            <div class="image-placeholder">
+                <span class="initial">Login</span>
+                
+            </div>
+        </div>
+
+        <form action="" method="get" class="edit-form">
+            
+            <label for="email">Email</label>
+            <input type="email" id="email" placeholder="Enter Your Email" required>
+
+            <label for="phone">Password</label>
+            <input type="password" id="password" placeholder="Enter your Password" required>
+
+            <button  onclick="goMain()" class="save-button" type="submit">
+                Login
+            </button>
+        </form>
+        <br>
+        <p>Don't have account? <a href="/scr/user/register.html">Register Now</a>
+    </div>
+</div>
+<script src="/js-css/js/logreg.js"></script>
+</body>
+</html>
