@@ -1,5 +1,5 @@
 # Documentation for a Rented House Web Application in "Jigawa Dutse"
-Project present from Team Hawk.
+Project present by **Team Hawk**.
 
 ### Short words: Thanks to almighty God for this moment having great leadership from Trybe-X and support given to us. 
 
@@ -8,7 +8,7 @@ Project present from Team Hawk.
 This web application is designed to showcase rental properties in Jigawa Dutse. It allows users to explore available houses, manage their profiles, view favorites, and interact with essential features like registration and login. The application structure is organized into various folders for ease of development, maintenance, and scalability.
 
 
-Folder Structure
+Here goes our Folder Structure
 
 1. Public Directory
    - This is the main directory accessible to users. It contains assets such as images, JavaScript, CSS, and other static pages for navigation and user interaction.
